@@ -12,4 +12,4 @@ Embedded systems often operate in environments with limited resources such as pr
 Anjali - Embedded Engineer  
 
 ## Acknowledgments  
-This paper is a result of extensive self-study and research in the field of embedded security. It reflects my ongoing journey as an embedded engineer dedicated to enhancing the security and reliability of modern embedded systems.  
+This paper is a result of extensive self-study and research in the field of embedded security. It reflects my ongoing journey as an embedded engineer dedicated to enhancing the security and reliability of modern embedded systems. 
